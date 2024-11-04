@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @aliaa8s
-- 👀 I’m interested in Cinema, Python and Chess
 - 🌱 I’m currently learning Machine Learning & Data Scinece
 - 📫 How to reach me aliasaaa315@gmail.com
 
